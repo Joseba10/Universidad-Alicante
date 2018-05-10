@@ -4,6 +4,8 @@
 	  <a href="index.jsp">
 	  	<img src="img/logo.jpg" class="logo" alt="Logo Nidea">
 	  </a>	
+	
+
             
       <nav class="my-2 my-md-0 mr-md-10">
         <a class="p-2 text-dark" href="noticias">Noticias</a>
