@@ -34,7 +34,7 @@ public class HomeController extends HttpServlet {
 	
 		//Url Cliente
 		
-		
+		//url=https://cvnet.cpd.ua.es/servicioweb/publicos/pub_gral.asmx
 	
 		//Conseguir noticias
 	

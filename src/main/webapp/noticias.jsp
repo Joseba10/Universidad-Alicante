@@ -26,10 +26,10 @@
 <c:forEach items="${festivos}" var="festivos">
 
 <p>Año del Curso <c:out value="${festivos.caca}" /></p>
-<p>Fecha inicio/Fecha Fin<c:out value="${festivos.fechaini},${festivos.fechafin}" /></p>
+<p>Fecha inicio/Fecha Fin <c:out value=" ${festivos.fechaini},${festivos.fechafin}" /></p>
 
 <p>Nombre del dia festivo<c:out value="${festivos.descripcion}" /></p>
-
+<br>
 </c:forEach>
 </div>
 
